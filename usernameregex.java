@@ -7,7 +7,7 @@ class UsernameValidator {
 }
 
 
-public class Solution {
+public class usernameregex {
     private static final Scanner scan = new Scanner(System.in);
     
     public static void main(String[] args) {
