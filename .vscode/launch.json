@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "hackerrank-java_96a3b17d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - array1d_2",
             "request": "launch",
             "mainClass": "array1d_2",
